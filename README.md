@@ -7,3 +7,6 @@ The client security group is attached to all EC2 instances that want to mount th
 
 The mount target references the filesystem, linked to subnets, and also protected by the security groups.
 
+
+![Sharing File between EC2 Instances](arch.png)
+
